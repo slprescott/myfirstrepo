@@ -1,1 +1,2 @@
 This is alpha.
+Now there is a second line.
